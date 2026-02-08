@@ -1,6 +1,6 @@
 window.VALENTINE_CONFIG = {
   // Basic Information
-  valentineName: "China",                    // Your Valentine's name
+  valentineName: "Soppuuuuuu",                    // Your Valentine's name
   pageTitle: "Will You Be My Valentine? 💝", // Browser tab title
 
   // Floating Background Elements
